@@ -28,7 +28,7 @@ Returning Site Users
 
 ## Images
 
-I used Unsplash to find my images.
+I used [Unsplash](https://unsplash.com/)  to find my images. Really easy website to use, loads of images you can choose from and it is free.
 
 ---
 
@@ -41,3 +41,9 @@ I used Unsplash to find my images.
 ![untitled (1)](https://github.com/Idehed/P1/assets/146822758/2d1d8ab2-5e99-4a18-a338-754d63cd8555)
 
 ## Testing 
+
+## Credits
+
+## Technology
+
+
