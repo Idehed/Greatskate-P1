@@ -16,7 +16,7 @@ body {
     flex-direction: column;
     color: #3a3a3a;
     font-family: 'lato', sans-serif;
-    
+
 }
 
 /* Header */
@@ -55,7 +55,7 @@ h1 {
     color: #ffffff;
 }
 
-#menu > li {
+#menu>li {
     margin-bottom: 1em;
 }
 
@@ -73,7 +73,7 @@ nav {
     padding: 0 1rem;
     display: none;
     top: 99%;
-} 
+}
 
 /* Nav toggle*/
 #nav-toggle:checked~nav {
@@ -86,8 +86,8 @@ nav {
 
 .nav-toggle-label {
     font-size: 2rem;
-    color:#ffffff;
-    
+    color: #ffffff;
+
 }
 
 /* Main content */
@@ -96,7 +96,7 @@ main {
     margin-top: 43px;
 }
 
-/* Hero */ 
+/* Hero */
 #hero {
     width: 100%;
     height: 600px;
@@ -126,7 +126,8 @@ footer {
 }
 
 /* Media query for tablets and larger(768px and larger) */
-@media screen and (min-width: 768px){
+@media screen and (min-width: 768px) {
+
     /* Header */
     nav {
         display: block;
@@ -140,7 +141,7 @@ footer {
         display: flex;
     }
 
-    #menu > li {
+    #menu>li {
         padding-left: 1rem;
     }
 
@@ -153,10 +154,11 @@ footer {
         line-height: 75px;
         margin: 0 1rem;
     }
+
     /* Main content */
     main {
         margin-top: 75px;
-    }    
+    }
 }
 
 /* Media query for laptops/computers and larger(992px and larger) */
