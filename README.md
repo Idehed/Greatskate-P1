@@ -11,4 +11,4 @@ I used Unsplash to find my images.
 
 ## Wireframes
 
-![wireframes] (/workspaces/P1/assets/images/untitled.png)
+![wireframes](untitled.jpg)
