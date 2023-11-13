@@ -8,6 +8,24 @@ I am learning out 3 different lessons.
 - Begginers Skating 2
 - Hockey for begginers
 
+
+## UX design 
+
+New Site Users
+
+- I want to easy navigate though the website.
+- I want to understand what I am booking.
+- I want to be inspired.
+- I want to book a lesson that looks fun!
+  
+Returning Site Users
+
+- I want to make more bookings.
+- 
+- 
+- 
+- 
+
 ## Images
 
 I used Unsplash to find my images.
