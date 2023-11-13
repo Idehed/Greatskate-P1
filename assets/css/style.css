@@ -41,7 +41,7 @@ h1 {
     font-family: 'Fugaz One', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #ffffff
+    color: #93CAED;
 }
 
 #logo {
@@ -52,7 +52,7 @@ h1 {
     font-size: 110%;
     letter-spacing: 4px;
     list-style-type: none;
-    color: #ffffff;
+    color: #93CAED;
 }
 
 #menu>li {
@@ -86,7 +86,7 @@ nav {
 
 .nav-toggle-label {
     font-size: 2rem;
-    color: #ffffff;
+    color: #93CAED;
 
 }
 
@@ -117,7 +117,7 @@ main {
 #social-networks i {
     font-size: 160%;
     padding: 5%;
-    color: #ffffff;
+    color: #93CAED;
 
 }
 
@@ -167,12 +167,19 @@ footer {
         height: 600px;
         background: url("../images/taylor-friehl-byhpFPXLdy4-unsplash\ \(1\).jpg") no-repeat bottom center/cover;
     }
-}
 
+    /* Footer social networks */
+
+    #social-networks i {
+        font-size: 160%;
+        padding: 10%;
+        color: #93CAED;
+    }
+}
 /* Media query for laptops/computers and larger(992px and larger) */
 @media screen and (min-width: 992px) {
     #menu a:hover {
-        border-bottom: 1px solid #3a3a3a;
+        border-bottom: 1px solid #2788ea;
     }
 
     #hero {
