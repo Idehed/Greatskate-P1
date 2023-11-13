@@ -2,11 +2,11 @@
 
 ## Purpose
 
-*This project is mainly about learning how to skate on ice but also the fundamentals about how to play ice hockey. 
+This project is mainly about learning how to skate on ice but also the fundamentals about how to play ice hockey. 
 I am learning out 3 different lessons. 
-Begginers Skating
-Begginers Skating 2
-Hockey for begginers
+- Begginers Skating
+- Begginers Skating 2
+- Hockey for begginers
 
 ## Images
 
