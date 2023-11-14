@@ -128,7 +128,7 @@ main {
 #what-I-offer {
     background-color: #93CAED;
     width: 100%;
-    margin: 20px auto;
+    margin-top: auto;
 }
 
 #what-I-offer h2 {
@@ -192,7 +192,6 @@ main {
 
 footer {
     background-color: #1c1b23;
-    margin-top: auto;
 }
 
 /* Media query for tablets and larger(768px and larger) */
