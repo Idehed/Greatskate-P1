@@ -23,7 +23,7 @@ h1 , h2 {
     font-family: 'Fugaz One', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #93CAED;
+    color: #e9e9ea;
 }
 
 /* Header */
@@ -53,7 +53,7 @@ header a {
     font-size: 110%;
     letter-spacing: 4px;
     list-style-type: none;
-    color: #93CAED;
+    color: #e9e9ea;
 }
 
 #menu>li {
@@ -87,7 +87,7 @@ nav {
 
 .nav-toggle-label {
     font-size: 2rem;
-    color: #93CAED;
+    color: #e9e9ea;
 
 }
 
@@ -135,7 +135,7 @@ main {
 #social-networks i {
     font-size: 160%;
     padding: 5%;
-    color: #93CAED;
+    color: #e9e9ea;
 
 }
 
@@ -200,7 +200,7 @@ footer {
         font-size: 160%;
         padding: 5%;
         margin: 20px;
-        color: #93CAED;
+        color: #e9e9ea;
     }
 }
 /* Media query for laptops/computers and larger(992px and larger) */
@@ -229,6 +229,6 @@ footer {
         font-size: 160%;
         padding: 5%;
         margin: 20px;
-        color: #93CAED;
+        color: #e9e9ea;
     }
 }
