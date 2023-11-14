@@ -193,6 +193,13 @@ div p {
     height: 100px;
 }
 
+/* About me image */
+
+#about-me-image {
+    width: 100%;
+    height: 200px;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
