@@ -146,6 +146,12 @@ main {
     padding: 0 20px;
 }
 
+#lessons h4 {
+    text-align: center;
+
+}
+
+
 /* Beginners image */
 
 #image-beginner {
