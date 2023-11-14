@@ -123,6 +123,37 @@ main {
     color:#e9e9ea;
 }
 
+
+/* Section */
+#what-I-offer {
+    background-color: #93CAED;
+    width: 100%;
+    margin: 20px auto;
+}
+
+#what-I-offer h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 250%;
+}
+
+#lessons > div {
+    margin-bottom: 20px;
+    line-height: 20px;
+}
+
+#lessons p{
+    padding: 0 20px;
+}
+
+/* Beginners image */
+.beginners {
+    background: url("../images/matthew-fournier-G971e4EFKtA-unsplash.jpg") no-repeat center center/cover;
+    width: 40%;
+    height: 400px;
+}
+
+
 /* Footer */
 #social-networks {
     text-align: center;
