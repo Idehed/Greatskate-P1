@@ -97,13 +97,22 @@ main {
     margin-top: 43px;
 }
 
-/* Hero */
+/* Hero home page */
 #hero {
     width: 100%;
     height: 600px;
     background: url("../images/mariah-hewines-s3BIuan-wjo-unsplash.jpg") no-repeat center center/cover;
     position: relative;
 
+}
+
+/* Hero contact me page */
+
+#hero1 {
+    width: 100%;
+    height: 600px;
+    background: url("../images/braden-barwich-yaAruHxQ9OQ-unsplash.jpg") no-repeat center center/cover;
+    position: relative;
 }
 
 #inspiration-text {
