@@ -156,20 +156,31 @@ hr {
     text-align: center;
 }
 
-.lessons > div {
-    margin-bottom: 20px;
+#lessons-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+    
+
+#lessons-container div {
+    margin-bottom: 10px;
     line-height: 20px;
 }
 
-.lessons p{
+#lessons-container p{
     padding: 0 20px;
     color: #e9e9ea;
     font-size: 130%;
 }
 
-.lessons h4 {
+#lessons-container h4 {
     text-align: center;
 
+}
+
+#lessons-container p{
+    text-align: center;
 }
 
 div p {
