@@ -132,6 +132,12 @@ main {
     color:#e9e9ea;
 }
 
+hr {
+    width:100%;
+    text-align: left;
+    margin-left: 0;
+}
+
 
 /* Section */
 #what-I-offer {
