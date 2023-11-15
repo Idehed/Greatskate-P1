@@ -185,9 +185,9 @@ div p {
 /* Beginners image */
 
 #beginner-image {
-    padding: 5px;
     width: 100%;
     height: 100px;
+    padding: 5px;
     border: 1px solid #1c1b23;
 }
 
@@ -196,6 +196,8 @@ div p {
 #image-intermediate {
     width: 100%;
     height: 100px;
+    padding: 5px;
+    border: 1px solid #1c1b23;
 }
 
 
@@ -204,6 +206,8 @@ div p {
 #image-hockey {
     width: 100%;
     height: 100px;
+    padding: 5px;
+    border: 1px solid #1c1b23;
 }
 
 /* About me image */
