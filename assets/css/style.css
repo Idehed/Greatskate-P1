@@ -101,23 +101,23 @@ main {
 #hero {
     width: 100%;
     height: 600px;
-    background: url("../images/mariah-hewines-s3BIuan-wjo-unsplash.jpg") no-repeat center center/cover;
     position: relative;
+    color: white;
+    overflow: hidden;
+    background: #C04848;
+    /* fallback for old browsers */
+    background: linear-gradient(rgba(162, 155, 162, 0.8), rgb(147, 202, 237, 0.8)), url("../images/mariah-hewines-s3BIuan-wjo-unsplash.jpg") no-repeat center center/cover;
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(rgb(162, 155, 162, 0.8), rgba(147, 202, 237, 0.8)), url("../images/mariah-hewines-s3BIuan-wjo-unsplash.jpg") no-repeat center center/cover;
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-size: cover;
+    background-repeat: no-repeat;
 
-}
-
-/* Hero contact me page */
-
-#hero1 {
-    width: 100%;
-    height: 600px;
-    background: url("../images/braden-barwich-yaAruHxQ9OQ-unsplash.jpg") no-repeat center center/cover;
-    position: relative;
 }
 
 #inspiration-text {
     background-color: transparent;
-    font-size: 80%;
+    font-size: 100%;
     position: absolute;
     bottom: 30px;
     width: 80%;
@@ -221,6 +221,16 @@ footer {
     background-color: #1c1b23;
 }
 
+/* Contact me page  */
+
+/* Hero contact me image */
+#hero1 {
+    width: 100%;
+    height: 600px;
+    background: url("../images/braden-barwich-yaAruHxQ9OQ-unsplash.jpg") no-repeat center center/cover;
+    position: relative;
+}
+
 /* Media query for tablets and larger(768px and larger) */
 @media screen and (min-width: 768px) {
 
@@ -261,7 +271,16 @@ footer {
     #hero {
         width: 100%;
         height: 850px;
-        background: url("../images/taylor-friehl-byhpFPXLdy4-unsplash\ \(1\).jpg") no-repeat center center/cover;
+        color: white;
+        overflow: hidden;
+        background: #C04848;
+        /* fallback for old browsers */
+        background: linear-gradient(rgba(162, 155, 162, 0.8), rgb(147, 202, 237, 0.8)), url("../images/taylor-friehl-byhpFPXLdy4-unsplash\ \(1\).jpg") no-repeat center center/cover;
+        /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(rgb(162, 155, 162, 0.8), rgba(147, 202, 237, 0.8)), url("../images/taylor-friehl-byhpFPXLdy4-unsplash\ \(1\).jpg") no-repeat center center/cover;
+        /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        background-size: cover;
+        background-repeat: no-repeat;
     }
 
     /* Footer social networks */
@@ -289,9 +308,20 @@ footer {
 
     #hero {
         width: 100%;
-        height: 600px;
-        background: url("../images/taylor-friehl-byhpFPXLdy4-unsplash\ \(1\).jpg") no-repeat bottom center/cover;
+        height: 400px;
+        color: white;
+        overflow: hidden;
+        background: #C04848;
+        /* fallback for old browsers */
+        background: linear-gradient(rgba(162, 155, 162, 0.8), rgb(147, 202, 237, 0.8)), url("../images/taylor-friehl-byhpFPXLdy4-unsplash\ \(1\).jpg") no-repeat center center/cover;
+        /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(rgb(162, 155, 162, 0.8), rgba(147, 202, 237, 0.8)), url("../images/taylor-friehl-byhpFPXLdy4-unsplash\ \(1\).jpg") no-repeat center center/cover;
+        /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        background-size: cover;
+        background-repeat: no-repeat;
+    
     }
+
 
     /* Footer social networks */
 
