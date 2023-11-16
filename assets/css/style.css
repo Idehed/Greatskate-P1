@@ -286,10 +286,9 @@ div ul {
 .book-now {
     background-color: #2788ea;
     margin-bottom: 10px;
-    margin-left:60px;
+    margin-left: 123px;
     position:relative;
     font-size: 100%;
-     
 
 }
 
@@ -427,6 +426,11 @@ footer {
         text-align: left;
     }
 
+    .book-now {
+        font-size: 150%;
+        margin-left: 15px;
+    }
+
     
 
     /* About me page */
@@ -438,7 +442,8 @@ footer {
     
     /* Hero image */
     .anton-image {
-        width: 300px;
+        width: 400px;
+        height: 500px;
      
     }
 
