@@ -175,6 +175,15 @@ div ul {
     text-align:center;
 }
 
+#why-skating {
+    background-color: #242627;
+}
+
+#why-skating p {
+    font-family: sans-serif;
+    color:#e9e9e9;
+    
+}
 
 
 /* Beginners image */
