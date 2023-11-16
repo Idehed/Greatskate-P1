@@ -151,6 +151,7 @@ main {
     width: 100%;
     margin: 20px auto;
     margin-top: 0px;
+    
 }
 
 #what-I-offer h2{
@@ -159,7 +160,7 @@ main {
     font-size: 250%;
 }
 #what-I-offer h3 {
-    margin-bottom: 15px;
+    margin-bottom: 40px;
     text-align: center;
     color:#e9e9e9;
 }
@@ -171,9 +172,8 @@ main {
 
 div ul {
     color:#e9e9e9;
-    text-align: center;
+    text-align:center;
 }
-
 
 
 
@@ -374,6 +374,11 @@ footer {
         margin-left:10px;
         margin-right:10px;
     }
+
+    div ul{
+        text-align: left;
+    }
+
     
 
     /* About me page */
