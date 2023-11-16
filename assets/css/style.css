@@ -308,6 +308,7 @@ div ul {
     color: #ffffff;
     background-color: rgba(60, 60, 60, 0.6);
     padding: 30px;
+    margin-bottom: 20px;
 }
 
 #contact-me-form>h2 {
@@ -458,7 +459,7 @@ footer {
         max-width: 400px;
         position: absolute;
         left: 10%;
-        top: 150px;
+        top: 90px;
     }
     
     .text-input:hover {
