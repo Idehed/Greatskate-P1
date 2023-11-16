@@ -230,19 +230,26 @@ div p {
 }
 
 
-/* About me */
+/* Contact me page  */
 
-#about {
-    background-color: #3a3a3a;
+/* Hero contact me image */
+#hero1 {
+    width: 100%;
+    height: 600px;
+    background: url("../images/braden-barwich-yaAruHxQ9OQ-unsplash.jpg") no-repeat center center/cover;
+    position: relative;
 }
 
-/* About me image */
+/* About me page */
 
-#about-me-image {
+#aboutmehero {
     width: 100%;
-    height: 200px;
-    padding: 5px;
-    
+    height: 600px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    background: url("../images/anton\ photo.jpg") no-repeat;
+    position: relative;
 }
 
 /* Footer */
@@ -263,16 +270,6 @@ div p {
 
 footer {
     background-color: #1c1b23;
-}
-
-/* Contact me page  */
-
-/* Hero contact me image */
-#hero1 {
-    width: 100%;
-    height: 600px;
-    background: url("../images/braden-barwich-yaAruHxQ9OQ-unsplash.jpg") no-repeat center center/cover;
-    position: relative;
 }
 
 /* Media query for tablets and larger(768px and larger) */
@@ -327,6 +324,19 @@ footer {
         background-repeat: no-repeat;
     }
 
+    /* About me page */
+    
+    /* Hero image */
+    #aboutmehero {
+        width: 100%;
+        height: 600px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 10px;
+        background: url("../images/anton\ photo.jpg") no-repeat;
+        position: relative;
+    }
+
     /* Footer social networks */
 
      #social-networks {
@@ -343,13 +353,15 @@ footer {
         margin: 20px;
         color: #e9e9ea;
     }
+
 }
 /* Media query for laptops/computers and larger(992px and larger) */
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid #2788ea;
     }
-
+    
+    /*Hero home page */
     #hero {
         width: 100%;
         height: 400px;
@@ -365,6 +377,17 @@ footer {
         background-repeat: no-repeat;
     
     }
+
+    /* Hero about me page */
+    #aboutmehero {
+        width: 100%;
+        height: 600px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 10px;
+        background: url("../images/anton\ photo.jpg") no-repeat;
+        position: relative;
+        }
 
 
     /* Footer social networks */
