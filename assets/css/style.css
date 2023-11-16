@@ -250,10 +250,20 @@ div ul {
 
 #anton h4{
     text-align:center;
-    margin-bottom: 10px;
-    margin-top:10px;
+    margin-bottom: 20px;
+    margin-top:20px;
     color:#e9e9e9;
     padding:10px;
+
+}
+
+.book-now {
+    background-color: #2788ea;
+    margin-bottom: 10px;
+    margin-left:60px;
+    position:relative;
+    font-size: 100%;
+     
 
 }
 
@@ -393,16 +403,16 @@ footer {
     
 
     /* About me page */
+
+    #anton h4{
+        margin-left:50px;
+        margin-right:50px;
+    }
     
     /* Hero image */
-    #aboutmehero {
-        width: 100%;
-        height: 600px;
-        margin-top: 10px;
-        margin-bottom: 10px;
-        margin-left: 10px;
-        background: url("../images/anton\ photo.jpg") no-repeat;
-        position: relative;
+    .anton-image {
+        width: 300px;
+     
     }
 
     
@@ -478,15 +488,30 @@ footer {
     }
 
     /* Hero about me page */
-    #aboutmehero {
-        width: 100%;
-        height: 600px;
-        margin-top: 10px;
-        margin-bottom: 10px;
-        margin-left: 10px;
-        background: url("../images/anton\ photo.jpg") no-repeat;
-        position: relative;
+    #anton {
+        display:flex;
+        flex-direction:row-reverse;
+       
     }
+
+    .anton-image {
+        width:400px;
+        height: 650px;
+        margin-bottom: 10px;
+        margin-right: 10px;
+    }
+
+    #anton h4{
+        padding:5px;
+        margin-left:80px;
+        margin-right:80px;
+        margin-bottom: 60px;
+    }
+
+    .book-now {
+        font-size: 150%;;
+    }
+    
     
     #beginner-image,
     #image-intermediate,
