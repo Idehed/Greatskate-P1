@@ -75,6 +75,7 @@ header a {
     background-color:#2788ea;
 }
 
+
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
@@ -133,6 +134,7 @@ main {
     bottom: 30px;
     width: 80%;
     min-height: 200px;
+    max-width: 600px;
     padding-top: 40px;
     padding-right: 10px;
     
@@ -143,19 +145,12 @@ main {
     color:#e9e9ea;
 }
 
-/* Make a horizontal line*/
-hr {
-    width:100%;
-    text-align: left;
-    margin-left: 0;
-}
-
-
 /* Section */
 #what-I-offer {
     background-color: #242627;
     width: 100%;
     margin: 20px auto;
+    margin-top: 0px;
 }
 
 #what-I-offer h2{
@@ -174,29 +169,25 @@ hr {
     margin-bottom: 20px;
 }
 
-/* Lessons */
-
-#lessons-container p{
-   padding: 0 20px; 
-   
+div ul {
+    color:#e9e9e9;
+    text-align: center;
 }
 
-div p {
-    background-color: rgb(14, 11, 8, 0.3);
-    border: 2px solid #2788ea;
-    width: 100%;
-    padding: 5px;
-    margin: 3px;
-    box-shadow: 2px 2px 2px #2788ea;
-}
+
+
 
 /* Beginners image */
 
 #beginner-image {
     width: 100%;
     height: 180px;
-    padding: 5px;
+    padding: 1px;
     margin-bottom: 20px;
+    max-width: 500px;
+    max-height: 500px;
+    box-shadow: 1px 1px 8px #2788ea;
+    
     
 }
 
@@ -205,8 +196,11 @@ div p {
 #image-intermediate {
     width: 100%;
     height: 180px;
-    padding: 5px;
+    padding: 1px;
     margin-bottom: 20px;
+    max-width: 500px;
+    max-height: 500px;
+    box-shadow: 1px 1px 8px #2788ea;
     
 }
 
@@ -216,8 +210,11 @@ div p {
 #image-hockey {
     width: 100%;
     height: 180px;
-    padding: 5px;
+    padding: 1px;
     margin-bottom: 20px; 
+    max-width: 500px;
+    max-height: 500px;
+    box-shadow: 1px 1px 8px #2788ea;
 
 }
 
@@ -240,15 +237,63 @@ div p {
 }
 
 /* Contact me page  */
-
-/* Hero contact me image */
-#hero1 {
-    width: 100%;
-    height: 600px;
-    background: url("../images/braden-barwich-yaAruHxQ9OQ-unsplash.jpg") no-repeat center/cover;
-    position: relative;
+main {
+    /* Enlarge main element to push footer down*/
+    flex: 1 0 auto;
+    /* Add margin at the top to prevent content from being covered by the header */
+    margin-top: 47px;
+    /* Enable flex properties for child elements */
+    display: flex;
+    flex-direction: column;
+}
+/* Form */
+#signup {
+    background-image: url("../images/braden-barwich-yaAruHxQ9OQ-unsplash.jpg");
+    background-size: cover;
+    background-position: 75%;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
 }
 
+#signup-form {
+    color: #ffffff;
+    background-color: rgba(60, 60, 60, 0.6);
+    padding: 30px;
+}
+
+#signup-form>h2 {
+    color: #fafafa;
+    margin-bottom: 20px;
+}
+
+.text-input {
+    background: transparent;
+    color: #fafafa;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+    padding: 0 5px;
+}
+
+.radio-buttons {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.join-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px;
+    font-size: 100%;
+    background-color: #454b1b;
+    color: #fafafa;
+}
+
+
+/* Hero contact me image */
 /* Footer */
 #social-networks {
     text-align: center;
@@ -308,7 +353,7 @@ footer {
     /* Hero Image */
     #hero {
         width: 100%;
-        height: 850px;
+        height: 550px;
         color: white;
         overflow: hidden;
         background: #C04848;
@@ -322,11 +367,14 @@ footer {
         background-position: bottom;
     }
 
-    .beginner {
-        display: flex;
-        flex-wrap: nowrap;
-        justify-content: space-evenly;
+    #beginner-image ,#image-intermediate ,#image-hockey{
+        width:200px;
+        height: 200px;
+        padding:5px;
+        margin-left:10px;
+        margin-right:10px;
     }
+    
 
     /* About me page */
     
@@ -340,6 +388,36 @@ footer {
         background: url("../images/anton\ photo.jpg") no-repeat;
         position: relative;
     }
+
+    
+    #lessons-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+     
+        /* Form */
+    #signup {
+        background-position: center;
+        position: relative;
+    }
+    
+    #signup-form {
+        max-width: 400px;
+        position: absolute;
+        left: 10%;
+        top: 150px;
+    }
+    
+    .text-input:hover {
+        border-color: #f16c6b;
+    }
+    
+    .join-button:hover {
+        background-color: #fafafa;
+        color: #454b1b;
+    }
+    
 
     /* Footer social networks */
 
@@ -393,11 +471,16 @@ footer {
         background: url("../images/anton\ photo.jpg") no-repeat;
         position: relative;
     }
+    
+    #beginner-image,
+    #image-intermediate,
+    #image-hockey {
+        width: 300px;
+        height: 300px;
+        padding: 5px;
+        margin-left: 10px;
+        margin-right: 10px;
 
-    .beginner {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-evenly;
     }
 
 
