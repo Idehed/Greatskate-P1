@@ -166,6 +166,7 @@ hr {
 #what-I-offer h3 {
     margin-bottom: 15px;
     text-align: center;
+    color:#e9e9e9;
 }
 
 #lessons-container {
@@ -212,7 +213,7 @@ div p {
     width: 100%;
     height: 180px;
     padding: 5px;
-    border: 1px solid #2788ea;
+    
 }
 
 /* Intermediate image */
@@ -221,7 +222,7 @@ div p {
     width: 100%;
     height: 180px;
     padding: 5px;
-    border: 1px solid #2788ea;
+    
 }
 
 
@@ -231,7 +232,7 @@ div p {
     width: 100%;
     height: 180px;
     padding: 5px;
-    border: 1px solid #2788ea;  
+     
 
 }
 
