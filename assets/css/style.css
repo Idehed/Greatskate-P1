@@ -70,7 +70,7 @@ header a {
     border-bottom: 1px solid #3a3a3a;
 }
 
-#devider {
+#devider1 , #devider2 , #devider3 {
     height:2px;
     background-color:#2788ea;
 }
@@ -170,6 +170,10 @@ main {
 }
 
 /* icons styles */
+
+#lessons-container ul {
+    margin-left: 25px;
+}
 
 #beginner h3{
     margin: left 10px;
