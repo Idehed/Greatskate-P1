@@ -120,7 +120,7 @@ main {
     overflow: hidden;
     background: #C04848;
     /* fallback for old browsers */
-    background: linear-gradient(rgba(162, 155, 162, 0.8), rgb(147, 202, 237, 0.8)), url("../images/mariah-hewines-s3BIuan-wjo-unsplash.jpg") no-repeat center center/cover;
+    background: linear-gradient(rgba(162, 155, 162, 0.8), rgb(147, 202, 237, 0.8)), url("../images/mariah-hewines-s3BIuan-wjo-unsplash.jpg")no-repeat center center/cover;
     /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(rgb(162, 155, 162, 0.8), rgba(147, 202, 237, 0.8)), url("../images/mariah-hewines-s3BIuan-wjo-unsplash.jpg") no-repeat center center/cover;
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */

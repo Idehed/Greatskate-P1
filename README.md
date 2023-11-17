@@ -5,9 +5,11 @@
 This project is mainly about learning how to skate on ice but also the fundamentals about how to play ice hockey.
 I am learning out 3 different lessons.
 
-- Begginers Skating
-- Begginers Skating 2
-- Hockey for begginers
+- Beginners
+- Intermediate
+- Hockey
+
+![Responsiveness](https://github.com/Idehed/P1/assets/146822758/cf681d58-f23f-402f-b2a3-4ccf37bb3057)
 
 ## UX design
 
@@ -21,10 +23,10 @@ New Site Users
 Returning Site Users
 
 - I want to make more bookings.
--
--
--
--
+- I want come back and learn more about Anton.
+- I want to read more about the benefits on why to skate.
+
+[Click here to go to live website](https://idehed.github.io/P1/)
 
 ## Images
 
