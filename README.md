@@ -100,7 +100,7 @@ I got my about me image from my phones photo library.
 
 2.On the left-hand sidebar, in the Code and automation section, select Pages.
 
-3.Make sure: 
+3.Make sure:
 -Source is set to 'Deploy from Branch'.
 -Main branch is selected.
 -Folder is set to / (root).
