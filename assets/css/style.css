@@ -176,7 +176,7 @@ main {
 }
 
 #beginner h3{
-    margin: left 10px;
+    margin-left: 10px;
 }
 #beginner > div, #intermediate >div , #hockey>div{
     line-height: 20px;
