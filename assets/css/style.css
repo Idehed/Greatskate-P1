@@ -287,14 +287,23 @@ div ul {
 
 }
 
-.book-now {
+#book-me-form button{
     background-color: #2788ea;
+    margin-left: 10px;
     margin-bottom: 10px;
-    margin-left: 123px;
-    position:relative;
-    font-size: 100%;
+
+    
+    
+}
+
+#book-me-form1 button {
+    background-color: #2788ea;
+    margin-left: 10px;
+    margin-bottom: 10px;
 
 }
+
+
 
 /* Contact me page  */
 
@@ -430,10 +439,22 @@ footer {
         text-align: left;
     }
 
-    .book-now {
-        font-size: 150%;
-        margin-left: 15px;
+    #book-me-form button {
+        background-color: #2788ea;
+        margin-left: 10px;
+        margin-bottom: 10px;
+        font-size: 140%;
     }
+
+    #book-me-form1 button {
+        background-color: #2788ea;
+        margin-left: 10px;
+        margin-bottom: 10px;
+        font-size: 140%;
+    
+    }
+        
+    
 
     
 
