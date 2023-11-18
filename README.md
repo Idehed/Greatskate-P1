@@ -53,6 +53,47 @@ Returning Site Users
 
 ---
 
+  ### **Home hero Image section**
+  
+![Home page](https://github.com/Idehed/love-running/assets/146822758/2de21d66-a15e-4e50-a5ed-57b16a44794b)
+
+The home page hero section is to capture the viewers eyes with the image of the person skating. How they dream to be able to skate like that in a place like that. The big header is to be more visible for the user. The menu is to the right of the header and is also very visible.
+
+
+
+### **Home Lessons section**
+
+![Lessons](https://github.com/Idehed/love-running/assets/146822758/d6a5e5f0-bca1-4ce2-984a-56c099880ddc)
+
+The lessons section is for people to see what kind of lessons they can choose from. A breif info about what you get is under the image in each lesson. A "book me" button is located under the lessons section for the user to press and then be linked to contact me page.
+
+
+
+### **Home page footer**
+
+
+![Footer](https://github.com/Idehed/love-running/assets/146822758/f96612bb-0c96-4b2e-b2de-9b61db0602df)
+
+Here the user can read about the benifits of skating.
+All the way down we have some social networks links.
+
+---
+
+### About me page
+
+![About me](https://github.com/Idehed/love-running/assets/146822758/3acf8d8c-32ef-437b-9333-72394639d616)
+
+Here the user can read some info about me (Anton). So the user knows why they are going to choose me as a coach!
+There is also a "book me" button on this page that takes you to contact me page for easy navigation.
+
+---
+
+### Contact me page
+
+![Contact me](https://github.com/Idehed/love-running/assets/146822758/2ff1592e-0d53-46a7-b4a8-35a47db83b8f)
+
+In the contact me page we have a from for the user to fill in and choose what lesson they want to book. They will send it and then I will contact them about when im free to book.
+
 ## Images
 
 ---
@@ -89,9 +130,41 @@ I got my about me image from my phones photo library.
 
 ---
 
+## Bugs 
+
+- When i depployed my website my favicon did not appear. 
+  
+![fixed error](https://github.com/Idehed/P1/assets/146822758/1f2f533d-c893-44b8-b523-46d4b6151580)
+
+- I fixed this by removing the slash / in th href.
+
+---
+
 ## Credits
 
 ---
+
+## Content
+
+---
+
+- The "Why ice skating " content was take from this website [playkettering.org](https://www.playkettering.org/health-benefits-ice-skating/)
+- The text in the about me page I used chatgpt [chat.openai.com](https://chat.openai.com/)
+- Icons were taken from [fontawesome.com](https://fontawesome.com/search)
+- Fonts were taken from [google font](https://fonts.google.com/)
+- Form was copied from the [Love Running Project](https://github.com/Idehed/love-running)
+
+
+---
+
+### Code
+
+---
+
+- I learned how to use the flexbox at [css-tricks.com](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- I learned about CSS image overlay at [imagekit.io](https://imagekit.io/blog/css-image-overlay/#image-overlay-effects-using-css)
+- Form was copied from the [Love Running Project](https://github.com/Idehed/love-running)
+- Button was created with the help at [stackoverflow.com](https://stackoverflow.com/)
 
 ### Media
 
@@ -102,6 +175,7 @@ I got my about me image from my phones photo library.
 - taylor-friehl-5tqaSa9bsSU-unsplash.webp is by Taylor Friehl from [Unsplash](https://unsplash.com/)
 - taylor-friehl-5tqaSa9bsSU-unsplash is by Taylor Friehl from [Unsplash](https://unsplash.com/)
 - weston-m-1QKC4PqKXzE-unsplash.webp is by Weston m from [Unsplash](https://unsplash.com/)
+- Favicon was created here in [Favicon.io](https://favicon.io/)
 
 ---
 
