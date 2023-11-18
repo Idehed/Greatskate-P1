@@ -235,3 +235,8 @@ Contact me page desktops
 The live link can be found here [live link](https://idehed.github.io/P1/)
 
 ---
+
+## Acknowledgements
+
+I would like to thank my mentor Ronan Mc for helping me through the whole process of making my first website!
+I had some moments when I really got stuck and you really helped through it.
