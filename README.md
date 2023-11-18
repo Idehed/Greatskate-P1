@@ -1,5 +1,12 @@
 # GREATSKATE
 
+
+## Responsive Website
+
+![Responsiveness](https://github.com/Idehed/P1/assets/146822758/cf681d58-f23f-402f-b2a3-4ccf37bb3057)
+
+---
+
 ## Purpose
 
 ---
@@ -10,12 +17,6 @@ I am learning out 3 different lessons.
 - Beginners
 - Intermediate
 - Hockey
-
----
-
-## Responsive Website
-
-![Responsiveness](https://github.com/Idehed/P1/assets/146822758/cf681d58-f23f-402f-b2a3-4ccf37bb3057)
 
 ---
 
