@@ -1,6 +1,5 @@
 # GREATSKATE
 
-
 ## Responsive Website
 
 ![Responsiveness](https://github.com/Idehed/P1/assets/146822758/cf681d58-f23f-402f-b2a3-4ccf37bb3057)
@@ -54,13 +53,11 @@ Returning Site Users
 
 ---
 
-  ### **Home hero Image section**
+### **Home hero Image section**
   
 ![Home page](https://github.com/Idehed/love-running/assets/146822758/2de21d66-a15e-4e50-a5ed-57b16a44794b)
 
 The home page hero section is to capture the viewers eyes with the image of the person skating. How they dream to be able to skate like that in a place like that. The big header is to be more visible for the user. The menu is to the right of the header and is also very visible.
-
-
 
 ### **Home Lessons section**
 
@@ -68,10 +65,7 @@ The home page hero section is to capture the viewers eyes with the image of the 
 
 The lessons section is for people to see what kind of lessons they can choose from. A breif info about what you get is under the image in each lesson. A "book me" button is located under the lessons section for the user to press and then be linked to contact me page.
 
-
-
 ### **Home page footer**
-
 
 ![Footer](https://github.com/Idehed/love-running/assets/146822758/f96612bb-0c96-4b2e-b2de-9b61db0602df)
 
@@ -131,9 +125,28 @@ I got my about me image from my phones photo library.
 
 ---
 
-## Bugs 
+## Validater testing
 
-- When i depployed my website my favicon did not appear. 
+--- 
+
+### Lighthouse
+
+Home page desktops
+
+![Home page](https://github.com/Idehed/P1/assets/146822758/8284c79c-7959-4e72-8f0b-72d1c69709f1)
+
+About me page
+
+![About me](https://github.com/Idehed/P1/assets/146822758/c8263432-5e01-45bb-bea2-81799f0509c0)
+
+Contact me page 
+
+![Contact me](https://github.com/Idehed/P1/assets/146822758/ca7b3e86-aa51-4e93-84ac-e6f6c4364dcd)
+---
+
+## Bugs
+
+- When i depployed my website my favicon did not appear.
   
 ![fixed error](https://github.com/Idehed/P1/assets/146822758/1f2f533d-c893-44b8-b523-46d4b6151580)
 
@@ -154,7 +167,6 @@ I got my about me image from my phones photo library.
 - Icons were taken from [fontawesome.com](https://fontawesome.com/search)
 - Fonts were taken from [google font](https://fonts.google.com/)
 - Form was copied from the [Love Running Project](https://github.com/Idehed/love-running)
-
 
 ---
 
