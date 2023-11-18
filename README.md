@@ -82,9 +82,22 @@ I got my about me image from my phones photo library.
 
 ## Testing
 
+-I tested this weste in 4 different browsers : Safari , Google Chrome, Windowns Edge and Firefox.
+-I tested that all the navigation links works and take you to the right place.
+-I made sure that my navigation, header, about me page, conact me page are easily navigated and easy to read.
+I tested that my form works with all the inputs and it is visble for the user.
+
 ---
 
 ## Credits
+
+---
+
+### Media
+
+-anton-photo.jpg was taken from my own phone photo library.
+-braden-barwich-yaAruHxQ9OQ-unsplash.webp is by Branden Barwich from [Unsplash](https://unsplash.com/)
+-
 
 ---
 
