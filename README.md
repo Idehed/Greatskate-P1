@@ -125,7 +125,10 @@ I got my about me image from my phones photo library.
 
 ---
 
-## Validater testing
+## Automated testing
+
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) No errors found!
+- [W3C HTML Validator](https://validator.w3.org/#validate_by_input) No errors found!
 
 ---
 
