@@ -17,6 +17,8 @@ I am learning out 3 different lessons.
 - Intermediate
 - Hockey
 
+[Click here to go to live website](https://idehed.github.io/P1/)
+
 ---
 
 ## UX design
@@ -35,8 +37,6 @@ Returning Site Users
 - I want to make more bookings.
 - I want come back and learn more about Anton.
 - I want to read more about the benefits on why to skate.
-
-[Click here to go to live website](https://idehed.github.io/P1/)
 
 ---
 
@@ -100,6 +100,8 @@ I got my about me image from my phones photo library.
 
 ## Wireframes
 
+I used the website [Whimsical](https://whimsical.com/login) to make my wireframes. Super easy website to us!
+
 ---
 
 ### Phone view
@@ -108,7 +110,7 @@ I got my about me image from my phones photo library.
 
 ![untitled](https://github.com/Idehed/P1/assets/146822758/a0f434bf-7f85-497e-9cf5-4be360d17745)
 
-### Tablets/compter view
+### Tablets/computer view
 
 ---
 
@@ -120,7 +122,7 @@ I got my about me image from my phones photo library.
 
 - I tested this weste in 4 different browsers : Safari , Google Chrome, Windowns Edge and Firefox.
 - I tested that all the navigation links works and take you to the right place.
-- I made sure that my navigation, header, about me page, conact me page are easily navigated and easy to read.
+- I made sure that my navigation, header, about me page, contact me page are easily navigated and easy to read.
 - I tested that my form works with all the inputs and it is visble for the user.
 
 ---
@@ -164,7 +166,7 @@ Contact me page desktops
 
 ## Bugs
 
-- When i depployed my website my favicon did not appear.
+- When I deployed my website my favicon did not appear.
   
 ![fixed error](https://github.com/Idehed/P1/assets/146822758/1f2f533d-c893-44b8-b523-46d4b6151580)
 
@@ -207,10 +209,6 @@ Contact me page desktops
 - taylor-friehl-5tqaSa9bsSU-unsplash is by Taylor Friehl from [Unsplash](https://unsplash.com/)
 - weston-m-1QKC4PqKXzE-unsplash.webp is by Weston m from [Unsplash](https://unsplash.com/)
 - Favicon was created here in [Favicon.io](https://favicon.io/)
-
----
-
-## Technology
 
 ---
 
