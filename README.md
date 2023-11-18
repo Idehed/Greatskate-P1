@@ -127,21 +127,36 @@ I got my about me image from my phones photo library.
 
 ## Validater testing
 
---- 
+---
 
 ### Lighthouse
+
+Home page Mobile
+
+![Home page](https://github.com/Idehed/P1/assets/146822758/e7baa670-7e44-4851-84ca-14a198f43b8c)
+
+About me page Mobile
+
+![About me page](https://github.com/Idehed/P1/assets/146822758/9d7dfe46-3613-412c-8023-a3474e99b172)
+
+Contact me page Mobile
+
+![Contact me page](https://github.com/Idehed/P1/assets/146822758/eefaf8de-fa2f-4dbe-8fb2-31dcbbe0ae91)
+
+---
 
 Home page desktops
 
 ![Home page](https://github.com/Idehed/P1/assets/146822758/8284c79c-7959-4e72-8f0b-72d1c69709f1)
 
-About me page
+About me page desktops
 
 ![About me](https://github.com/Idehed/P1/assets/146822758/c8263432-5e01-45bb-bea2-81799f0509c0)
 
-Contact me page 
+Contact me page desktops
 
 ![Contact me](https://github.com/Idehed/P1/assets/146822758/ca7b3e86-aa51-4e93-84ac-e6f6c4364dcd)
+
 ---
 
 ## Bugs
