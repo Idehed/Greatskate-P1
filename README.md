@@ -82,10 +82,10 @@ I got my about me image from my phones photo library.
 
 ## Testing
 
--I tested this weste in 4 different browsers : Safari , Google Chrome, Windowns Edge and Firefox.
--I tested that all the navigation links works and take you to the right place.
--I made sure that my navigation, header, about me page, conact me page are easily navigated and easy to read.
-I tested that my form works with all the inputs and it is visble for the user.
+- I tested this weste in 4 different browsers : Safari , Google Chrome, Windowns Edge and Firefox.
+- I tested that all the navigation links works and take you to the right place.
+- I made sure that my navigation, header, about me page, conact me page are easily navigated and easy to read.
+- I tested that my form works with all the inputs and it is visble for the user.
 
 ---
 
@@ -95,9 +95,13 @@ I tested that my form works with all the inputs and it is visble for the user.
 
 ### Media
 
--anton-photo.jpg was taken from my own phone photo library.
--braden-barwich-yaAruHxQ9OQ-unsplash.webp is by Branden Barwich from [Unsplash](https://unsplash.com/)
--
+- anton-photo.jpg was taken from my own phone photo library.
+- braden-barwich-yaAruHxQ9OQ-unsplash.webp is by Branden Barwich from [Unsplash](https://unsplash.com/)
+- mariah-hewines-s3BIuan-wjo-unsplash is by Maria Hewines from [Unsplash](https://unsplash.com/)
+- matthew-fournier-G971e4EFKtA-unsplash.webp is by Matthew Fournier from [Unsplash](https://unsplash.com/)
+- taylor-friehl-5tqaSa9bsSU-unsplash.webp is by Taylor Friehl from [Unsplash](https://unsplash.com/)
+- taylor-friehl-5tqaSa9bsSU-unsplash is by Taylor Friehl from [Unsplash](https://unsplash.com/)
+- weston-m-1QKC4PqKXzE-unsplash.webp is by Weston m from [Unsplash](https://unsplash.com/)
 
 ---
 
